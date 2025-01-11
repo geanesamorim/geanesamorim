@@ -1,6 +1,6 @@
 - 👋 olá, Eu sou @geanesamorim
 - 👀 Estou aprendendo um pouco de inteligëncia artificial e suas ferramentas. Vou usá-las para falar um pouquinho sobre ativos de renda fixa.
-- 🌱 Vou usar IAs generativas: ChatGpt para criar o texto, D-ID para sintetizar a falar e Adobe Premiere para fazer o vídeo
+- 🌱 Vou usar IAs generativas: ChatGpt para criar o texto, D-ID para sintetizar a fala e Adobe Premiere para fazer o vídeo
 - 💞️ 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
